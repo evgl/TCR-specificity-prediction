@@ -1,7 +1,16 @@
 # TCR-specificity-prediction
-Multi-scale Convolutional Attention Networks for TCR and epitope classification
+Multi-scale Convolutional Attention Networks for TCR and epitope classification.
 
 This project is done for educational and research purpose only.
+
+## Model architecture
+<img width="546" alt="Screen Shot 2023-08-28 at 8 20 05 PM" src="https://github.com/evgl/TCR-specificity-prediction/assets/66017568/a19fe824-b225-4da7-b84a-952218afd606">
+
+## Attention weights on each token
+<img width="612" alt="image" src="https://github.com/evgl/TCR-specificity-prediction/assets/66017568/715cce6c-fd58-4fc3-8a93-8fa3eea481e9">
+
+
+
 # Example usages
 
 ## Finetune an existing model
